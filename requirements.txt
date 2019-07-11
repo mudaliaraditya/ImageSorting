@@ -1,0 +1,4 @@
+DateTime==4.3
+ExifRead==2.1.2
+pytz==2019.1
+zope.interface==4.6.0
