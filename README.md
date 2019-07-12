@@ -4,7 +4,7 @@ works on most images you have taken through smartphone/Camera may not work for i
 as the code works on exiff tags which are present in images taken by smartphone/camera
 
 
-Python 2.7
+Python 2.7/3.2
 Uses 
 Exifread
 datetime
